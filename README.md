@@ -15,3 +15,10 @@ I work across the full analysis workflow: cleaning and exploring data in Python,
 - [Connect](#connect)
 
 ---
+## End-to-End Project
+
+| Project Link | Tools | Project Description |
+|:---:|:---:|---|
+| 🛍️ [Customer Shopping Behaviour Analysis](https://github.com/AyushUmmadi/customer-shopping-behaviour-analysis) | Python, PostgreSQL, Power BI | Analyzed the shopping behaviour of 3,900 customers from start to finish: cleaned and prepared the data in Python, loaded it into PostgreSQL to answer key business questions with SQL, built an interactive Power BI dashboard, and turned the findings into 7 business recommendations in a written report and slide deck. |
+
+---
