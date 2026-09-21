@@ -55,3 +55,6 @@ I work across the full analysis workflow: cleaning and exploring data in Python,
 | 🏬 [Superstore Sales Analysis Dashboard](https://github.com/AyushUmmadi/superstore-sales-tableau-dashboard) | Built an interactive dashboard on 9,994 Superstore orders (2014–2017) showing how sales, profit and discounting vary by state, category and time. It combines a sales map, a sales-vs-profit trend, discount and profit distributions, and category breakdowns, with Year, State and Category filters. Found that most sales come from little or no discount (0–20%). | [Dashboard](https://public.tableau.com/app/profile/ayush.ummadi/viz/SalesDashboard_17891478182300/Dashboard1) |
 
 ---
+## Connect
+
+I'm actively looking for data analyst roles and always happy to talk data. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/ayush-ummadi) 🤝
