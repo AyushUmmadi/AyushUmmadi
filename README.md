@@ -30,3 +30,13 @@ I work across the full analysis workflow: cleaning and exploring data in Python,
 | 🎯 [Customer Segmentation (RFM)](https://github.com/AyushUmmadi/customer-segmentation-rfm-sql) | Customer segmentation, RFM analysis | Segmented 50 customers across 247 transactions (2023–2024) in MySQL: scored Recency, Frequency and Monetary value using CTEs and NTILE, grouped customers into segments, and compared those segments by demographics and product category. |
 
 ---
+## Python
+
+| Project Link | Area | Project Description | Libraries |
+|:---:|:---:|---|:---:|
+| 🛒 [Black Friday Sales Analysis](https://github.com/AyushUmmadi/black-friday-sales-analysis) | Retail customer analysis | Analyzed 537,000+ Black Friday transactions to see how gender, age, marital status, occupation and city tier shape spending. Found that 26–35 year-olds are by far the most active buyers, and unmarried men are the largest customer segment across nearly every cut. | pandas, matplotlib, seaborn |
+| 🌍 [GDP Analysis](https://github.com/AyushUmmadi/gdp-analysis) | Economic analysis, interactive visualization | Derived year-over-year GDP growth for 256 countries (1960–2016) from World Bank data, automated interactive chart generation for every country, and built a reusable function to compare growth across any set of countries. | pandas, Plotly |
+| ❤️ [Heart Disease Visual Analysis](https://github.com/AyushUmmadi/heart-disease-visualization-techniques) | Healthcare data visualization | Matched six chart types (distribution, pie, violin, heatmap, joint and pair plots) to the questions each answers best across 918 patient records. Found that ST depression and max heart rate had the strongest links to heart disease. | pandas, NumPy, matplotlib, seaborn |
+| 🌾 [Sugarcane Production EDA](https://github.com/AyushUmmadi/sugarcane-production-eda) | Agricultural data EDA | Cleaned and explored production data for 102 countries, comparing output, land use and yield by country and continent. Found that Brazil produces about 41% of the world's sugarcane, and that land under cultivation, not yield, drives total output. | pandas, matplotlib, seaborn |
+
+---
