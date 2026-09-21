@@ -48,3 +48,10 @@ I work across the full analysis workflow: cleaning and exploring data in Python,
 | 📈 [Sales Executive Performance Dashboard](https://github.com/AyushUmmadi/sales-executive-performance-dashboard) | Sales team performance | Built an interactive dashboard tracking 141 sales executives across 8 regions against target, with one region slicer filtering four linked pivot tables and charts at once. Found that the average executive reached only 55% of target. | Pivot Tables, Pivot Charts, Slicers |
 
 ---
+## Tableau
+
+| Project Link | Project Description | Dashboard Link |
+|:---:|---|:---:|
+| 🏬 [Superstore Sales Analysis Dashboard](https://github.com/AyushUmmadi/superstore-sales-tableau-dashboard) | Built an interactive dashboard on 9,994 Superstore orders (2014–2017) showing how sales, profit and discounting vary by state, category and time. It combines a sales map, a sales-vs-profit trend, discount and profit distributions, and category breakdowns, with Year, State and Category filters. Found that most sales come from little or no discount (0–20%). | [Dashboard](https://public.tableau.com/app/profile/ayush.ummadi/viz/SalesDashboard_17891478182300/Dashboard1) |
+
+---
