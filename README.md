@@ -1,16 +1,17 @@
-## Hi there 👋
+# 📊 Ayush's Data Analytics Portfolio
 
-<!--
-**AyushUmmadi/AyushUmmadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Ayush 👋 an entry-level Data Analyst who enjoys turning raw data into clear business recommendations. This page is a summary of my projects, organized by the tool I used.
 
-Here are some ideas to get you started:
+I work across the full analysis workflow: cleaning and exploring data in Python, answering business questions with SQL, and building dashboards in Power BI, Tableau and Excel. I'm open to data analyst roles in any industry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Toolkit:** Python (pandas, matplotlib, seaborn) · SQL (PostgreSQL, MySQL) · Power BI · Tableau · Excel
+
+## 📚 Table of Contents
+- [End-to-End Project](#end-to-end-project)
+- [SQL](#sql)
+- [Python](#python)
+- [Excel](#excel)
+- [Tableau](#tableau)
+- [Connect](#connect)
+
+---
