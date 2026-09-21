@@ -40,3 +40,11 @@ I work across the full analysis workflow: cleaning and exploring data in Python,
 | 🌾 [Sugarcane Production EDA](https://github.com/AyushUmmadi/sugarcane-production-eda) | Agricultural data EDA | Cleaned and explored production data for 102 countries, comparing output, land use and yield by country and continent. Found that Brazil produces about 41% of the world's sugarcane, and that land under cultivation, not yield, drives total output. | pandas, matplotlib, seaborn |
 
 ---
+## Excel
+
+| Project Link | Area of Analysis | Project Description | Excel Features |
+|:---:|:---:|---|:---:|
+| 🥐 [Bakery Sales Analysis](https://github.com/AyushUmmadi/bakery-sales-excel-analysis) | Sales, profitability, forecasting | Analyzed 700 bakery orders over 16 months to evaluate product performance, profit margins and seasonal demand, then forecast Q1 2021 revenue. Found that Chocolate Chip was the only product leading on both revenue and margin, and that two of five customers drove 57% of revenue. | SUMIFS, COUNTIFS, FORECAST, Pivot Tables, Charts |
+| 📈 [Sales Executive Performance Dashboard](https://github.com/AyushUmmadi/sales-executive-performance-dashboard) | Sales team performance | Built an interactive dashboard tracking 141 sales executives across 8 regions against target, with one region slicer filtering four linked pivot tables and charts at once. Found that the average executive reached only 55% of target. | Pivot Tables, Pivot Charts, Slicers |
+
+---
